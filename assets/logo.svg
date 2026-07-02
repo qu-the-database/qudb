@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="21.478368"
+     inkscape:cx="-5.4240619"
+     inkscape:cy="12.989813"
+     inkscape:window-width="2546"
+     inkscape:window-height="1396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7"
+       inkscape:label="dish">
+      <g
+         id="g1">
+        <rect
+           style="fill:#4b38f0;fill-opacity:1;stroke:none;stroke-width:1.2492;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect1-3"
+           width="11"
+           height="2"
+           x="2.5"
+           y="9" />
+        <ellipse
+           style="fill:#f0387d;fill-opacity:1;stroke:#4b38f0;stroke-width:1.0001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path1"
+           cx="8.0002842"
+           cy="11.000284"
+           rx="4.9999509"
+           ry="1.499951" />
+        <rect
+           style="fill:#f0387d;fill-opacity:1;stroke:none;stroke-width:1.19107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect1"
+           width="10"
+           height="2"
+           x="3"
+           y="9" />
+      </g>
+      <g
+         id="g3"
+         transform="translate(0,-2)">
+        <rect
+           style="fill:#4b38f0;fill-opacity:1;stroke:none;stroke-width:1.2492;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect2"
+           width="11"
+           height="2"
+           x="2.5"
+           y="9" />
+        <ellipse
+           style="fill:#f0387d;fill-opacity:1;stroke:#4b38f0;stroke-width:1.0001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="ellipse2"
+           cx="8.0002842"
+           cy="11.000284"
+           rx="4.9999509"
+           ry="1.499951" />
+        <rect
+           style="fill:#f0387d;fill-opacity:1;stroke:none;stroke-width:1.19107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect3"
+           width="10"
+           height="2"
+           x="3"
+           y="9" />
+      </g>
+      <g
+         id="g6"
+         transform="translate(0,-4)">
+        <rect
+           style="fill:#4b38f0;fill-opacity:1;stroke:none;stroke-width:1.2492;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect5"
+           width="11"
+           height="2"
+           x="2.5"
+           y="9" />
+        <ellipse
+           style="fill:#f0387d;fill-opacity:1;stroke:#4b38f0;stroke-width:1.0001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="ellipse5"
+           cx="8.0002842"
+           cy="11.000284"
+           rx="4.9999509"
+           ry="1.499951" />
+        <rect
+           style="fill:#f0387d;fill-opacity:1;stroke:none;stroke-width:1.19107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect6"
+           width="10"
+           height="2"
+           x="3"
+           y="9" />
+      </g>
+      <g
+         id="g5"
+         transform="translate(0,-6)">
+        <ellipse
+           style="fill:#f0387d;fill-opacity:1;stroke:#4b38f0;stroke-width:1.0001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="ellipse4"
+           cx="8.0002842"
+           cy="11.000284"
+           rx="4.9999509"
+           ry="1.499951" />
+      </g>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#00ff30;stroke-width:0.901172;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect7"
+       width="8.4289999"
+       height="9.086483"
+       x="1.7942072"
+       y="2.5349481"
+       rx="3.9100001"
+       ry="4.2370329" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#00ff30;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 7.5226339,9.0699592 c 0.238192,1.9527478 2.6831281,3.0781798 2.6831281,3.0781798 0,0 1.148445,-0.758593 1.306913,-4.5593905 0.0022,-0.051955 0.09689,4.7292135 1.572094,4.7744565 1.449951,0.04447 1.426846,-1.761997 1.527956,-4.7249388 0.0063,-0.1853015 0.0955,4.9229678 0.103324,4.7238638"
+       id="path7"
+       sodipodi:nodetypes="ccsssc" />
+  </g>
+</svg>
