@@ -37,7 +37,16 @@ pub fn parse_create_statement<'data, 'token>(tokens: &mut &'token [Token<'data>]
 }
 
 pub fn parse_create_table_statement<'data, 'token>(location: Location, tokens: &mut &'token [Token<'data>]) -> Result<'data, 'token, Statement<'token>> {
+    let Some(name_t) = next_code(tokens) else { return Err(Error::MissingToken { loc: location, err_code: "create-table-no-name" }) };
+    let Some(name) = name_t.as_ident() else { return Err(Error::MissingToken { loc: location, err_code: "create-table-noident-name" }) };
+
     let ty = super::typ::parse_type(location, tokens)?;
+
+    Ok(Statement::CreateTableStatement(CreateTableStatement {
+        location,
+        table: name.as_str(),
+        data: ty,
+    }))
 }
 
 #[derive(Debug)]

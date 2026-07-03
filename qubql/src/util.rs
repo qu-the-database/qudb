@@ -20,12 +20,12 @@ impl<'a, 'b> PartialEq<Str<'b>> for Str<'a> {
 }
 impl<'a> PartialEq<str> for Str<'a> {
     fn eq(&self, other: &str) -> bool {
-        &*self == other
+        self.as_ref() == other
     }
 }
 impl<'a, 'b> PartialEq<&'b str> for Str<'a> {
     fn eq(&self, other: &&'b str) -> bool {
-        &*self == other
+        self.as_ref() == *other
     }
 }
 impl<'a> Hash for Str<'a> {

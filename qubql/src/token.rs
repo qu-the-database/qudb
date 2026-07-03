@@ -123,8 +123,8 @@ impl<'borrow, 'data> fmt::Debug for TokenDisplay<'borrow, 'data, IdentToken<'dat
                     f.write_str(&s[..i])?;
                 }
                 let cl = s[i..].chars().next().unwrap().len_utf8();
-                f.write_str("/");
-                f.write_str(&s[i..][..cl]);
+                f.write_str("/")?;
+                f.write_str(&s[i..][..cl])?;
                 s = &s[i..][cl..];
             }
 
