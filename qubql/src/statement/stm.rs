@@ -32,7 +32,7 @@ pub fn parse_create_statement<'data, 'token>(tokens: &mut &'token [Token<'data>]
 
     match token_i.as_str() {
         x if x.eq_ignore_ascii_case("table") => parse_create_table_statement(token.location(), tokens),
-        x => Err(Error::UnexpectedToken { token, err_code: "create-unknown-kind" }),
+        _ => Err(Error::UnexpectedToken { token, err_code: "create-unknown-kind" }),
     }
 }
 
